@@ -35,31 +35,30 @@ Connect With Me Here
 My current tool stack is setup to implement fast, data-driven solutions that are completely customizable and scalable with most up-to-date technologies.
 <ul>
   <li>
-    Text Editors: 
+    <b>Text Editors: </b>
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
   </li>
+    <b>Computing and OS: </b>
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg">
+  <li>
+    <b>Backend: </b>
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
+  </li>
+  <li>
+    <b>Frontend: </b>
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/d3-dot-js.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
+  </li>
 </ul>
-<br>
 
-#### Computing and OS
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg">
-<br>
-
-#### Backend
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
-<br>
-
-#### Frontend
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/d3-dot-js.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
 
 <!-- Optional if you have blogs -->
 <!--## Latest blog posts:-->
