@@ -33,10 +33,13 @@ Connect With Me Here
 ### My Current Tool Stack
 
 My current tool stack is setup to implement fast, data-driven solutions that are completely customizable and scalable with most up-to-date technologies.
-
-#### Text Editors
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
+<ul>
+  <li>
+    Text Editors: 
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
+  </li>
+</ul>
 <br>
 
 #### Computing and OS
