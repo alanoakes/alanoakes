@@ -8,7 +8,7 @@ Sources:
 # Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <ul>
-  <li>
+  <li style="list-style-type:none;">
     <b>Connect With Me Here: </b>
       <a href="http://www.parkeroakes.io">
         <img width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
@@ -22,7 +22,7 @@ Sources:
   </li>
 </ul>
 
-
+<hr>
 
 ### I'm A Data Enthusiast with A Passion to Emplement Data-Driven Resources
 - 🔭 <b>I’m currently working on:</b> AI-CMS (Artifical Intelligent Complaint Management System)
@@ -56,6 +56,7 @@ My current tool stack is setup to implement fast, data-driven solutions that are
     <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
     <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
     <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg">
   </li>
   <li>
     <b>Frontend: </b>
