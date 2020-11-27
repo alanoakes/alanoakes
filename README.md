@@ -5,7 +5,7 @@ Sources:
   3. https://shields.io/
 -->
 
-### Hi, I'm Parker Oakes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--[![Programmer Analyst](https://img.shields.io/badge/Text-Text-green?style=flat-square)](http://www.parkeroakes.io)-->
 Connect With Me Here
 <a href="http://www.parkeroakes.io">
