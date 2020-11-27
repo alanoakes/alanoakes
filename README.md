@@ -36,8 +36,8 @@ My current tool stack is setup to implement fast, data-driven solutions that are
 <ul>
   <li>
     Text Editors: 
-    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
-    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
   </li>
 </ul>
 <br>
