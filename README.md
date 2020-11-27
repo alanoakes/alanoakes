@@ -5,8 +5,8 @@ Sources:
   3. https://shields.io/
 -->
 
-## Hi, I'm Parker Oakes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Programmer Analyst](https://img.shields.io/badge/Text-Text-green?style=flat-square)](http://www.parkeroakes.io)
+### Hi, I'm Parker Oakes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!--[![Programmer Analyst](https://img.shields.io/badge/Text-Text-green?style=flat-square)](http://www.parkeroakes.io)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
 
@@ -19,11 +19,16 @@ Sources:
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true&theme=gruvbox)](https://github.com/alanoakes/github-readme-stats)
+[![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][http://www.parkeroakes.io]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/parker-oakes/]
+
+<a href="http://www.parkeroakes.io">
+  <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
+</a>
+<a href="https://www.linkedin.com/in/parker-oakes/">
+ <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
 <br />
 <!-- Optional if you have blogs -->
 <!--## Latest blog posts:-->
