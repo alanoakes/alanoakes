@@ -14,21 +14,46 @@ Connect With Me Here
 <a href="https://www.linkedin.com/in/parker-oakes/">
  <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
+<a href="https://alanoakes.github.io/cv/">
+  <img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg">
+</a>
 <br />
 
 ### I'm A Data Enthusiast with A Passion to Emplement Data-Driven Resources
 - 🔭 <b>I’m currently working on:</b> AI-CMS (Artifical Intelligent Complaint Management System)
-- 🌱 <b>I’m currently learning:</b> Front-End Development & AI Camera Object Detection
+- 🌱 <b>I’m currently learning:</b> Front-End Development & AI Camera Object Detection with Python
 - 👯 <b>I’m looking to collaborate with:</b> Front-End Engineers
-- 💬 <b>Ask me about</b> Bible Studies, Back-End Development, Cloud Computing and Data Analysis
+- 💬 <b>Ask me about:</b> Bible Studies, Back-End Development, Cloud Computing and Data Analysis
 - ⚡ <b>Fun fact:</b> Jesus Christ + Family + Coffee + Code = Parker
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
+
 [![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&langs_count=8)](https://github.com/alanoakes/github-readme-stats)-->
 
+### My Current Tool Stack
+
+My current tool stack is setup to implement fast, data-driven solutions that are completely customizable and scalable with most up-to-date technologies.
+
+#### Text Editors
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
+
+#### Computing and OS
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg">
+
+#### Backend
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
+
+#### Frontend
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/d3-dot-js.svg">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
 
 <!-- Optional if you have blogs -->
 <!--## Latest blog posts:-->
