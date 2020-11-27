@@ -17,11 +17,11 @@ Connect With Me Here
 <br />
 
 ### I'm A Data Enthusiast with A Passion to Emplement Data-Driven Resources
-- 🔭 I’m currently working on - AI-CMS (Artifical Intelligent Complaint Management System)
-- 🌱 I’m currently learning - Front-End Development & AI Camera Object Detection
-- 👯 I’m looking to collaborate with - Front-End Engineers
-- 💬 Ask me about - Back-End Development, Cloud Computing and Data Analysis
-- ⚡ Fun fact - Jesus Christ + Family + Coffee + Code = Parker
+- 🔭 <b>I’m currently working on:</b> AI-CMS (Artifical Intelligent Complaint Management System)
+- 🌱 <b>I’m currently learning:</b> Front-End Development & AI Camera Object Detection
+- 👯 <b>I’m looking to collaborate with:</b> Front-End Engineers
+- 💬 <b>Ask me about</b> Bible Studies, Back-End Development, Cloud Computing and Data Analysis
+- ⚡ <b>Fun fact:</b> Jesus Christ + Family + Coffee + Code = Parker
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
