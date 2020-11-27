@@ -7,8 +7,8 @@ Sources:
 
 # Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<ul>
-  <li style="list-style-type:none;">
+<ul  style="list-style-type:none;">
+  <li>
     <b>Connect With Me Here: </b>
       <a href="http://www.parkeroakes.io">
         <img width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
