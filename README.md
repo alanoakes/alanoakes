@@ -2,20 +2,20 @@
 Sources:
   1. https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/
   2. https://github.com/anuraghazra/github-readme-stats
-  3. 
+  3. https://shields.io/
 -->
 
-### Hi, I'm Parker Oakes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I'm Parker Oakes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Programmer Analyst](https://img.shields.io/badge/Text-Text-green?style=flat-square)](http://www.parkeroakes.io)
 
-## In Short, Data Enthusiast with A Passion to Emplement Data-Driven Resources
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
+
+### I'm A Data Enthusiast with A Passion to Emplement Data-Driven Resources
 - 🔭 I’m currently working on - AI-CMS (Artifical Intellegent Complaint Management System)
 - 🌱 I’m currently learning - Front-End Development
 - 👯 I’m looking to collaborate with - Front-End Engineers
 - 💬 Ask me about - Back-End Development, Cloud Computing and Data Analysis
 - ⚡ Fun fact - Jesus Christ + Family + Coffee + Code = Parker
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
