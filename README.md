@@ -25,8 +25,8 @@ Sources:
 <hr>
 
 ### I'm A Data Enthusiast with A Passion to Emplement Data-Driven Resources
-- 🔭 <b>I’m currently working on:</b> AI-CMS (Artifical Intelligent Complaint Management System)
-- 🌱 <b>I’m currently learning:</b> Front-End Development & AI Camera Object Detection with Python
+- 🔭 <b>I’m currently working on:</b> Natural Language Processing Projects and Cloud Computing
+- 🌱 <b>I’m currently learning:</b> Marrying Front-End & Back-End Development 
 - 👯 <b>I’m looking to collaborate with:</b> Front-End Engineers
 - 💬 <b>Ask me about:</b> Bible Studies, Back-End Development, Cloud Computing and Data Analysis
 - ⚡ <b>Fun fact:</b> Jesus Christ + Family + Coffee + Code = Parker
