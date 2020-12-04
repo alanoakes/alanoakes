@@ -7,21 +7,6 @@ Sources:
 
 # Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<ul  style="list-style-type:none;">
-  <li>
-    <b>Connect With Me Here: </b>
-      <a href="http://www.parkeroakes.io">
-        <img width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
-      </a>
-      <a href="https://www.linkedin.com/in/parker-oakes/">
-        <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-      </a>
-      <a href="https://alanoakes.github.io/cv/">
-        <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg">
-      </a>
-  </li>
-</ul>
-
 [![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
 
@@ -31,8 +16,25 @@ Sources:
 <p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">Memphis, USA</p>
 <p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">alan.p.oakes@gmail.com</p>
 <p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">(901) 257-9441</p>
+<p>
+  <a href="http://www.parkeroakes.io">
+  <img width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
+    parkeroakes.io
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/parker-oakes/">
+  <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+    LinkedIn
+  </a>
+</p>
+<p>
+  <a href="https://alanoakes.github.io/cv/">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg">
+    My CV
+  </a>
+</p>
 <hr>
-
 
 ### My Current Tool Stack
 
