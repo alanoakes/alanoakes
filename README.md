@@ -86,7 +86,7 @@ I have experience developing:
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
             </li>
             <li>
-              <b>Frontend Tools: </b>
+              <b>Frontend: </b>
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
