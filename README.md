@@ -22,47 +22,72 @@ Sources:
   </li>
 </ul>
 
-<hr>
-
-### I'm A Data Enthusiast with A Passion to Emplement Data-Driven Resources
-- 🔭 <b>I’m currently working on:</b> Natural Language Processing Projects and Cloud Computing
-- 🌱 <b>I’m currently learning:</b> Marrying Front-End & Back-End Development 
-- 👯 <b>I’m looking to collaborate with:</b> Front-End Engineers
-- 💬 <b>Ask me about:</b> Bible Studies, Back-End Development, Cloud Computing and Data Analysis
-- ⚡ <b>Fun fact:</b> Jesus Christ + Family + Coffee + Code = Parker
-
-
 [![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
 
+
+<p><b>I am a full-stack developer and data analyst with a passion for developing analytics applications and solutions.</b></p>
+<p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">Programmer Analyst</p>
+<p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">Memphis, USA</p>
+<p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">alan.p.oakes@gmail.com</p>
+<p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">(901) 257-9441</p>
+<hr>
+
+
 ### My Current Tool Stack
 
-My current tool stack is setup to implement fast, data-driven solutions that are completely customizable and scalable with most up-to-date technologies.
-<ul>
-  <li>
-    <b>Text Editors: </b>
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
-  </li>
-  <li>
-    <b>Computing and OS: </b>
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg">
-  </li>
-  <li>
-    <b>Backend: </b>
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg">
-  </li>
-  <li>
-    <b>Frontend: </b>
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/d3-dot-js.svg">
-    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
-  </li>
-</ul>
+<p>My current tool stack is setup to implement fast, data-driven solutions that are completely customizable and 
+             scalable with most up-to-date technologies.
+          </p>
+          <ul>
+            <li>
+              <b>Editors & IDE's: </b>
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg">
+            </li>
+            <li>
+              <b>Version Ctl & Mgmt: </b>
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/slack.svg">
+            </li>
+            <li>
+              <b>Computing and OS: </b>
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg">
+            </li>
+            <li>
+              <b>Data Analysis:</b>
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/d3-dot-js.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leaflet.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mapbox.svg">
+            </li>
+            <li>
+              <b>Backend: </b>
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
+            </li>
+            <li>
+              <b>Frontend Tools: </b>
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
+            </li>
+          </ul>
