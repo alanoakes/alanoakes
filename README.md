@@ -12,27 +12,24 @@ Sources:
 
 
 <p><b>I am a full-stack developer and data analyst with a passion for developing analytics applications and solutions.</b></p>
-<p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">Programmer Analyst</p>
-<p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">Memphis, USA</p>
-<p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">alan.p.oakes@gmail.com</p>
-<p><img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">(901) 257-9441</p>
+<p><img width="15px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/briefcase-svgrepo-com.svg">Programmer Analyst</p>
+<p><img width="15px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/home-svgrepo-com.svg">Memphis, USA</p>
+<p><img width="15px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/envelope-svgrepo-com.svg">alan.p.oakes@gmail.com</p>
+<p><img width="15px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/phone-svgrepo-com.svg">(901) 257-9441</p>
 <p>
   <a href="http://www.parkeroakes.io">
   <img width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
-    parkeroakes.io
-  </a>
+  </a>parkeroakes.io
 </p>
 <p>
   <a href="https://www.linkedin.com/in/parker-oakes/">
   <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-    LinkedIn
-  </a>
+  </a>LinkedIn
 </p>
 <p>
   <a href="https://alanoakes.github.io/cv/">
   <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg">
-    My CV
-  </a>
+  </a>My CV
 </p>
 <hr>
 
