@@ -7,11 +7,6 @@ Sources:
 
 # Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
-
-
-<p><b>I am a full-stack developer and data analyst with a passion for developing analytics applications and solutions.</b></p>
 <p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/briefcase-svgrepo-com.svg"> Programmer Analyst</p>
 <p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/home-svgrepo-com.svg"> Memphis, USA</p>
 <p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/envelope-svgrepo-com.svg"> alan.p.oakes@gmail.com</p>
@@ -31,7 +26,17 @@ Sources:
   <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg">
   </a> My CV
 </p>
-<hr>
+
+[![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
+
+<p><b>I am a full-stack developer and data analyst with a passion for developing analytics applications and solutions that work... so you do not have to.</b>
+
+I have experience developing:
+* Automated Web Applications
+* Interactive & Dynamic Reports & Dashboards
+* Text & Data Mining Analytics Software
+* Unsupervised & Supervised Machine Learning .</p>
 
 ### My Current Tool Stack
 
