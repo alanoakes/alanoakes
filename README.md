@@ -9,7 +9,7 @@ Sources:
 
 <p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/briefcase-svgrepo-com.svg"> Programmer Analyst</p>
 <p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/home-svgrepo-com.svg"> Memphis, USA</p>
-<p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/envelope-svgrepo-com.svg"> alan.p.oakes@gmail.com</p>
+<p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/envelope-svgrepo-com.svg"> parker@oakesnet.com</p>
 <p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/phone-svgrepo-com.svg"> (901) 257-9441</p>
 <p>
   <a href="http://www.parkeroakes.io">
