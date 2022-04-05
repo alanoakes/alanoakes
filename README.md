@@ -30,7 +30,9 @@ Sources:
 
 [![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)
 -->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
+-->
 <!--
 <p><b>I am a full-stack developer and data analyst with a passion for developing analytics applications and solutions that work... so you do not have to.</b>
 
