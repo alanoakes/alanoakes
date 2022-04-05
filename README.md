@@ -4,9 +4,9 @@ Sources:
   2. https://github.com/anuraghazra/github-readme-stats
   3. https://shields.io/
 
-
+-->
 # Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<!--
 
 <p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/briefcase-svgrepo-com.svg"> Programmer Analyst</p>
 <p><img width="25px" src="https://raw.githubusercontent.com/alanoakes/alanoakes/main/home-svgrepo-com.svg"> Memphis, USA</p>
@@ -33,15 +33,19 @@ Sources:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
 -->
-<!--
-<p><b>I am a full-stack developer and data analyst with a passion for developing analytics applications and solutions that work... so you do not have to.</b>
+
+<p>
+  <b>I am a software developer and data analyst.</b> My passion is developing applications and solutions that <em>work</em>... so you do not have to.
 
 I have experience developing:
-* Automated Web Applications
-* Interactive & Dynamic Reports & Dashboards
-* Text & Data Mining Analytics Software
-* Unsupervised & Supervised Machine Learning .</p>
-
+ * Interactive & Dynamic Reports & Dashboards
+ * Web, Terminal, & Desktop Applications 
+ * Custom Cartography & 3D Topology
+ * Text & Data Mining Analytics Software
+ * Custom infographics & video tutorials
+ * Research using Machine Learning
+</p>
+<!--
 ### My Current Tool Stack
 
 <p>My current tool stack is setup to implement fast, data-driven solutions that are completely customizable and 
