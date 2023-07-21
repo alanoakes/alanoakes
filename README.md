@@ -1,8 +1,9 @@
+<!--
 Sources:
   1. https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/
   2. https://github.com/anuraghazra/github-readme-stats
   3. https://shields.io/
-
+-->
 
 # Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
