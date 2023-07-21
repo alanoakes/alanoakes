@@ -1,9 +1,22 @@
-<!--
-Sources:
-  1. https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/
-  2. https://github.com/anuraghazra/github-readme-stats
-  3. https://shields.io/
--->
+<style>
+  .container {
+    width: 200px;
+    height: 200px;
+    background-color: #0a0a23;
+    position: relative;
+}
+.container img {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+</style>
+
+<div class="container">
+  <img src="meCoffee_NaBackground.svg" width="100px" height="100px">
+</div>
 
 # Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -100,3 +113,10 @@ I have experience developing:
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
             </li>
           </ul>
+
+<!--
+Sources:
+  1. https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/
+  2. https://github.com/anuraghazra/github-readme-stats
+  3. https://shields.io/
+-->
