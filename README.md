@@ -52,7 +52,7 @@
     <br/>
     that are completely <b>customizable and scalable</b> <span>&#8230;</span>
     <br/>
-    with most <b>up-to-date</b> technologies.
+    with the most <b>up-to-date</b> technologies.
   </p>
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
   
-  <h3>Expirience</h3>
+  <h3>Experience</h3>
   
   <p>
     I have experience developing:
