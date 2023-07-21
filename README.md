@@ -145,58 +145,7 @@
 
 </div>
 
-<!--
-### My Current Tool Stack
 
-<p>My current tool stack is setup to implement fast, data-driven solutions that are completely customizable and scalable with most up-to-date technologies.
-</p>
-          <ul>
-            <li>
-              <!-- Editors & IDE's: -->
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <!-- Version Ctl & Mgmt -->
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-              <!-- Computing and OS -->
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-              <!-- Data Analysis -->
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/d3-dot-js.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leaflet.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mapbox.svg">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-              <!-- Backend -->
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-              <!-- Frontend -->
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
-            </li>
-          </ul>
-  -->
 <!--
 Sources:
   1. https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/
