@@ -8,9 +8,6 @@
     <a href="mailto:parker@alanoakes.dev">
       <img src="https://img.shields.io/badge/email-parker@alanoakes.dev-blue" alt="badge-email">
     </a>
-    <a href="tel:901-257-9441">
-      <img src="https://img.shields.io/badge/phone-901_257_9441-blue" alt="badge-phone">
-    </a>
     <br/>
     <a href="https://www.linkedin.com/in/parker-oakes/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
