@@ -18,6 +18,8 @@
     <a href="">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=alanoakes&style=flat-square&color=green" alt=""/>
   </div>
   <br/>
   <p>
