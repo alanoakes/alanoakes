@@ -1,18 +1,4 @@
-<style>
-  .container {
-    width: 200px;
-    height: 200px;
-    background-color: #0a0a23;
-    position: relative;
-}
-.container img {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-}
-</style>
+
 
 <div class="container">
   <img src="meCoffee_NaBackground.svg" width="100px" height="100px">
