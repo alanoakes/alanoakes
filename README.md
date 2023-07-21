@@ -38,7 +38,7 @@
   </blockquote>
   <br/>
   
-  <h3>How I Implement This Daily</h4>
+  <h3>How I Implement This Daily</h3>
 
   <p>
     <b>I am a software developer and data analyst <em>(i.e. Programmer Analyst)</em>.</b> <br/>
@@ -46,7 +46,59 @@
   </p>
 
   <br/>
+    
 
+  ### :hammer_and_wrench: Tool Stack
+
+  <br/>
+  
+  <div>
+    <!-- Editors & IDE's: -->
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg">
+    <br/>
+    <!-- Version Ctl & Mgmt -->
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
+    <br/>
+    <!-- Computing and OS -->
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg">
+    <br/>
+    <!-- Data Analysis -->
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/d3-dot-js.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leaflet.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mapbox.svg">
+    <br/>
+    <!-- Backend -->
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
+    <br/>
+    <!-- Frontend -->
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg">
+    <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">
+  </div>
+
+  <br/>
+  
   <p>
     My current <b>tool stack</b> is setup to implement <span>&#8230;</span>
     <br/>
@@ -100,48 +152,42 @@
 </p>
           <ul>
             <li>
-              <b>Editors & IDE's: </b>
+              <!-- Editors & IDE's: -->
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg">
-            </li>
-            <li>
-              <b>Version Ctl & Mgmt: </b>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <!-- Version Ctl & Mgmt -->
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/slack.svg">
-            </li>
-            <li>
-              <b>Computing and OS: </b>
-              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg">
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+              <!-- Computing and OS -->
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg">
-            </li>
-            <li>
-              <b>Data Analysis:</b>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+              <!-- Data Analysis -->
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/r.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/d3-dot-js.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leaflet.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mapbox.svg">
-            </li>
-            <li>
-              <b>Backend: </b>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+              <!-- Backend -->
+              <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/digitalocean.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/babel.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nginx.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
-            </li>
-            <li>
-              <b>Frontend: </b>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+              <!-- Frontend -->
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
               <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
