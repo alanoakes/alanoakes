@@ -1,5 +1,5 @@
 <div align="center" style="height:300; width:100%; background-color: #3b3d3b;">
-  <img src="me_NaBackground.svg" height="150" width="150">
+  <img src="meCoffee_NaBackground.svg" height="150" width="150">
   <h3>Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
   <div id="badges">
     <a href="http://www.alanoakes.dev">
