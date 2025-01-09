@@ -45,9 +45,9 @@
   <br/>
   
 <div align="center">
-  <h3>Stats</h3>
-  
-  [![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)
+  <!--<h3>Stats</h3>
+  [![Parker's github stats](https://github-readme-stats.vercel.app/api?username=alanoakes&count_private=true&include_all_commits=true)](https://github.com/alanoakes/github-readme-stats)  
+  -->
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanoakes&layout=compact)](https://github.com/alanoakes/github-readme-stats)
 
