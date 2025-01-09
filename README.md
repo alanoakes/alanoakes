@@ -49,7 +49,7 @@
 
   <br/>
   -->
-  <div>
+  <!-- <div> -->
     <!-- Editors & IDE's: 
     <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vim.svg">
     <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rstudio.svg">
@@ -104,7 +104,7 @@
     <img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg">    
     -->
 
-  </div>
+  <!--</div>-->
   
   <br/>
  <!-- 
