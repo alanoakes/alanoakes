@@ -34,14 +34,15 @@
     <br/>— PCMag Digital Group
   </blockquote>
   <br/>
-  
+
+  <!--
   <h3>How I Implement This Daily</h3>
 
   <p>
     <b>I am a software developer and data analyst <em>(i.e. Programmer Analyst)</em>.</b> <br/>
     My passion is developing applications and solutions that <em>work</em>... so you do not have to.
   </p>
-
+-->
   <br/>
   
 <div align="center">
