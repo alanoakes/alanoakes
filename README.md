@@ -1,3 +1,4 @@
+<!--
 <div align="center" style="height:300; width:100%; background-color: #3b3d3b;">
   <img src="meCoffee_NaBackground.svg" height="150" width="150">
   <h3>Hi! I'm Parker. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
@@ -24,10 +25,12 @@
   </p>
   <br/>
 </div>
-
+-->
 <div align="center">
   <h3>What Is A Programmer Analyst?</h3>
-
+  <p>
+    $$Software Developer + Data Analyst = Programmer Analyst$$  
+  </p>
   <blockquote cite="https://www.pcmag.com/encyclopedia/term/programmer-analyst">
     Programmer Analyst: “A person who analyzes and designs information systems and designs and writes the application programs for the system. 
     In theory, a programmer analyst is both systems analyst and applications programmer.”
